@@ -1,0 +1,6 @@
+{
+  "name": "数字化人员变更管理系统",
+  "description": "提供合同人员进场备案、人员变更（新进、退场）申请、数字化部负责人审批、专责终端及考勤配置以及保密承诺书签署的一体化人员变更管理系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
